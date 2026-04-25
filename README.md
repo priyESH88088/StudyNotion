@@ -14,6 +14,3 @@ StudyNotion is a full-stack MERN web application for online learning. It allows 
 
 ---
 
-## 📦 Installation
-
-### Clone repo
